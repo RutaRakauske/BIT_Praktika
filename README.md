@@ -6,32 +6,32 @@ This repository contains a collection of front-end projects and exercises that I
 
 Here is a list of some of the key projects and exercises included in this repository:
 
-- Project 1: Week2_MusicGallery
-  Objective: Create music gallery with navigation to a new page, clicking on picture.
-- Project 2: Week2_NewsPortal
-  Objective: Create new portal with links to various news portals official sites.
-- Project 3: Week2_PracticeWithLinks
-  Objective: Create page with several different tasks and make navigation to those tasks pages.
-- Project 4: Week3_ContactForm
-  Objective: Create form page, where need to collect user input, check if mandatory field were filled correctly and redirect after submission.
-- Project 1: Week3_ContactFormPink
-  Objective: Create nice form page, where need to have responsive layout, collect user input and have nice css.
-- Project 2: Week3_GetInTouchForm
-  Objective: Create "Get in touch" form, where need to collect user input, check if mandatory field were filled correctly and redirect after submission. Also pay more attention to css, create responsive design.
-- Project 3: Week4_FlexBasicPackage
-  Objective: Create page with 4 different pricing packages, should be responsive design using Flexbox.
-- Project 4: Week4_FooterExample
-  Objective: Create page footer according to example, should be responsive design using Flexbox.
-- Project 1: Week4_MediLabPage
-  Objective: Create a healthcare service provider, MediLab page according provided image, should be responsive design using Flexbox.
-- Project 2: Week4_XtraForm
-  Objective: Create sign up form page, collect user input, check if mandatory fields are filled. Should be responsive design using Flexbox.
-- Project 3: Week6_GridForm
-  Objective: Create landing page according to example, design should be responsive using Grid.
-- Project 4: Week6_GridForm2
-  Objective: Create person resume page according to example, design should be responsive using Grid.
-- Project 4: Week7_LandingPage
-  Objective: Create landing page according to example, design should be responsive using Flexbox.
+- **Week2_MusicGallery**
+  Create music gallery with navigation to a new page, clicking on picture.
+- **Week2_NewsPortal**
+  Create new portal with links to various news portals official sites.
+- **Week2_PracticeWithLinks**
+  Create page with several different tasks and make navigation to those tasks pages.
+- **Week3_ContactForm**
+  Create form page, where need to collect user input, check if mandatory field were filled correctly and redirect after submission.
+- **Week3_ContactFormPink**
+  Create nice form page, where need to have responsive layout, collect user input and have nice css.
+- **Week3_GetInTouchForm**
+  Create "Get in touch" form, where need to collect user input, check if mandatory field were filled correctly and redirect after submission. Also pay more attention to css, create responsive design.
+- **Week4_FlexBasicPackage**
+  Create page with 4 different pricing packages, should be responsive design using Flexbox.
+- **Week4_FooterExample**
+  Create page footer according to example, should be responsive design using Flexbox.
+- **Week4_MediLabPage**
+  Create a healthcare service provider, MediLab page according provided image, should be responsive design using Flexbox.
+- **Week4_XtraForm**
+  Create sign up form page, collect user input, check if mandatory fields are filled. Should be responsive design using Flexbox.
+- **Week6_GridForm**
+  Create landing page according to example, design should be responsive using Grid.
+- **Week6_GridForm2**
+  Create person resume page according to example, design should be responsive using Grid.
+- **Week7_LandingPage**
+  Create landing page according to example, design should be responsive using Flexbox.
 
 ## Tech Stack
 
